@@ -3,9 +3,9 @@
 
 📍 Taquari – RS  
 🎓 Ciência da Computação  
-📧 pedroc.freitas812@gmail.com  
+📧 pedro.coutinhof001@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/pedro-coutinho-de-freitas-601832262  
-🔗 GitHub: *adicione aqui seu link do GitHub*
+🔗 GitHub: 
 
 ---
 
