@@ -91,5 +91,5 @@ Procuro minha primeira oportunidade em TI para evoluir e gerar valor para a equi
 ---
 
 # 📫 Contato
-📧 pedroc.freitas812@gmail.com  
+📧 pedro.coutinhof001@gmail.com  
 📍 Taquari – Rio Grande do Sul  
