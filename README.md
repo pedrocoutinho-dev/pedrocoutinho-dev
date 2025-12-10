@@ -47,8 +47,8 @@ Estou em evolução constante, estudando todos os dias.
 ### 👨‍💻 Back-end Java
 - [x] Lógica de Programação  
 - [x] Java Básico  
-- [ ] Java OO  
-- [ ] Estruturas de Dados  
+- [x] Java OO  
+- [x] Estruturas de Dados  
 - [x] Spring Boot  
 - [x] APIs REST  
 - [ ] JPA / Hibernate  
